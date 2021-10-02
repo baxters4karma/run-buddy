@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 Bootcamp Spot Module 1, Run Buddy Website using HTML, CSS, and Git functionality<br/>
 Bootcamp Spot Module 2, Git and Advanced CSS
 
